@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark> 
+  
+  <NationalPark Rating="4.9"> 
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Address>
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="PHX" Rating="4.5">
+    <Name>Zion National Park</Name>
+    <Name>Zion Second Name Error</Name> 
+    <Address>
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="SLC" Rating="4.8">
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address>
+      <Number>5</Number>
+      <Street>N Main St</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </NationalPark>
+
+</NationalPark>
